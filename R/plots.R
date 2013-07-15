@@ -1,4 +1,4 @@
-pkgTest("sna")
+require("sna")
 
 opar <- par()
 
