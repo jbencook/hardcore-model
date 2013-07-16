@@ -20,5 +20,6 @@ To test the whole project, run the following line in an R session:
 
 source("hardcore-model.R")
 
-When the program finishes running, plots can be found in the hardcore-model/output folder and
-an animation can be found in hardcore-model/output/animation/animation.html.
+When the program finishes running, plots can be found in the 
+hardcore-model/output folder and an animation can be found 
+in hardcore-model/output/animation/animation.html.
